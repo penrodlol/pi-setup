@@ -1,6 +1,6 @@
 # Pi Agent Setup
 
-![pi new session](assets/screenshot.png)
+![pi new session](assets/screenshot.gif)
 
 ## Install
 
