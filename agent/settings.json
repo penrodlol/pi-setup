@@ -1,0 +1,17 @@
+{
+  "lastChangelogVersion": "0.87.1",
+  "theme": "black-waves",
+  "defaultProvider": "github-copilot",
+  "defaultModel": "claude-opus-5.5",
+  "packages": [
+    "npm:pi-web-access",
+    "npm:pi-mcp-adapter",
+    "npm:pi-subagents",
+    "npm:@raquezha/noheadroom",
+    "npm:pi-memory"
+  ],
+  "modelThinkingLevels": {
+    "github-copilot/claude-opus-5.5": "high"
+  },
+  "defaultThinkingLevel": "high"
+}
