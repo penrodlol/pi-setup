@@ -1,4 +1,4 @@
-# penrodlol Pi Agent Setup
+# Pi Agent Setup
 
 ![pi new session](assets/screenshot.png)
 
