@@ -1,6 +1,7 @@
 {
   "lastChangelogVersion": "0.87.1",
   "theme": "black-waves",
+  "quietStartup": true,
   "defaultProvider": "github-copilot",
   "defaultModel": "claude-opus-5.5",
   "packages": [
